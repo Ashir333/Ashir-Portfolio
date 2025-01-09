@@ -14,7 +14,7 @@ const menuItem = [
   { icon: "fa-user", menuName: "About" },
   { icon: "fa-briefcase", menuName: "Portfolio" },
   { icon: "fa-envelope-open", menuName: "Contact" },
-  { icon: "fa-comments", menuName: "Blog" },
+  // { icon: "fa-comments", menuName: "Blog" },
 ];
 
 const HomeDark = () => {
@@ -147,7 +147,7 @@ const HomeDark = () => {
               data-aos="fade-up"
               data-aos-duration="1200"
             >
-              {/*  Articles Starts  */}
+               {/* Articles Starts  */}
               <div className="row pb-50">
                 <Blog />
               </div>

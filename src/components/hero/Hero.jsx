@@ -8,8 +8,8 @@ import Index from "../../components/about/index";
 const heroContent = {
   heroImage: heroImg,
   heroMobileImage: heroImgMobile,
-  heroTitleName: "M. Ashir Javed",
-  heroDesignation: "Web Developer & UI/UX Designer",
+  heroTitleName: "Ashir Javed",
+  heroDesignation: "Web Developer",
   heroDescriptions: `I'm a Tunisian based web designer & front‑end developer focused on
   crafting clean & user‑friendly experiences, I am passionate about
   building excellent software that improves the lives of those

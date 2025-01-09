@@ -13,7 +13,9 @@ const AllRoutes = () => {
       <ContextProvider>
         <ScrollTopBehaviour />
         <Routes>
+          <Route path="Preview" element={<Preview />} />
           <Route path="/" element={<HomeDark />} />
+          <Route path="HomeRtl" element={<HomeRtl />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </ContextProvider>
